@@ -1,3 +1,9 @@
+#注意事项
+测试前需要做的事情：
+a.找到C:\Windows\System32\drivers\etc\hosts文件，增加域名本地映射。
+127.0.0.1 server.smart-sso.com
+127.0.0.1 demo.smart-sso.com
+
 # smart-sso
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](http://opensource.org/licenses/MIT)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/a466350665/smart-sso/pulls)
